@@ -1,0 +1,75 @@
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.exe
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.deps.json
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.runtimeconfig.json
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.runtimeconfig.dev.json
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.dll
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.pdb
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csprojAssemblyReference.cache
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.Form1.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csproj.GenerateResource.cache
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AssemblyInfoInputs.cache
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AssemblyInfo.cs
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csproj.CoreCompileInputs.cache
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.dll
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.pdb
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.genruntimeconfig.cache
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.LoginPage.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddRuleForm.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditRuleForm.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddComplaint.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddAgreement.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditAgreement.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.RegisterAdminForm.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.RegisterTenant.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.TenantForm.resources
+C:\Users\FaraOn\Desktop\FONTYS MATERIE\SE - PROIECT\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditTenant.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.exe
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.deps.json
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.runtimeconfig.json
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.runtimeconfig.dev.json
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.dll
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.pdb
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csprojAssemblyReference.cache
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddAgreement.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddComplaint.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddRuleForm.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditAgreement.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditRuleForm.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditTenant.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.Form1.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.LoginPage.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.RegisterAdminForm.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.RegisterTenant.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.TenantForm.resources
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csproj.GenerateResource.cache
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AssemblyInfoInputs.cache
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AssemblyInfo.cs
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csproj.CoreCompileInputs.cache
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.dll
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.pdb
+C:\Users\FaraOn\Desktop\Git\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.genruntimeconfig.cache
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.exe
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.deps.json
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.runtimeconfig.json
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.runtimeconfig.dev.json
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.dll
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\bin\Debug\netcoreapp3.1\ProjectPrototype.pdb
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csprojAssemblyReference.cache
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddAgreement.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddComplaint.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AddRuleForm.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditAgreement.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditRuleForm.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.EditTenant.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.LoginPage.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.RegisterAdminForm.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.RegisterTenant.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.TenantForm.resources
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csproj.GenerateResource.cache
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AssemblyInfoInputs.cache
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AssemblyInfo.cs
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.dll
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.pdb
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.genruntimeconfig.cache
+C:\Users\Hristo\projectgroup8\ProjectPrototype\ProjectPrototype\obj\Debug\netcoreapp3.1\ProjectPrototype.AdminForm.resources
